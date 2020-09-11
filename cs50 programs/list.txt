@@ -1,0 +1,86 @@
+list of projects--
+week 0
+0.0 scratch
+    using scratch to make a game 
+    
+------------------------------------------------------------------------------------------------------------------------
+week 1
+1.0 hello world
+    just print hello world
+
+1.1 mario
+    print a right aligned pyramid with a given input between 1 -8
+    how to do it?
+    0. request input
+    1. check input whether it is an integer between 1 to 8
+    2. let n be the input number 
+       for n+1 times set an integer m to 1 and increase m by 1 in each cycle
+       print n-m spaces and m no of hashes.   
+
+1.2 cash
+    using greedy algorithm print out how many coins are required for a given amount of money.
+    how to do it ?
+    0. request input
+    1. check wheather the input is a decimal and "change" to that decimal
+    2. multiply the change with 100
+    3. round the change
+    4. set a counter coins to 0
+    5. subtract 50 from change, 
+           if change is +ve add 1 to coins
+              if -ve , then subtract 25 to change
+                 if +ve , then add 1 to coins 
+                    if -ve , then subtract 10 to change
+                       if +ve , add 1 to coins
+                         if -ve , subtract 5 
+                            if +ve , add 1 to coins
+                               if -ve, end
+    6. pint out coins in the end
+
+------------------------------------------------------------------------------------------------------------------------- 
+week 2
+2.0 readability
+    using the colemann lieu index to calculate the difficulty of a text to read from grade 0 to 16
+    0. take a string input 
+    1. process the string to find out the no of letters , words and sentences
+        0. words-- no of spaces,
+        1. sentences -- no of full stops.
+        2. letters -- set counter to 0 add 1 when a charecter is between A and Z inclusive and a and z inclusive
+    2. plug in all the values in coleman lieu formula and calculate the level of the text
+
+2.1 caesar
+   shifting letters to enctrypt a given text.
+   0. take an argument number while executing the program
+   1. make sure you got a positive integer as an input
+   2. ask for text
+   3. shift allthe letters and shift their places as given in the argument
+   4. print out the final text
+---------------------------------------------------------------------------------------------------------------------------
+
+week 3 
+3.0 plurality
+    to run plurality elections, wherein we take the no of candidates there and the number of votes they recive and declare who wins the elections by seeing who has the most votes
+
+3.1 runoff
+    to run runoff elections wherin we have certain no of candidates who have to be voted , the voters have to rank their prfered candidates when there is no majority the candidate with least no of votes is dixxolved and his voters second prference is taken, this process continues till a candidaate gets a majority in which case he or she is decclared winner.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+week 4
+4.0 filter
+4.1 recover
+week 5 
+5.0 speller
+week 6 
+6.0 hello
+6.1 mario
+6.2 cash
+6.3 readability
+6.4 DNA
+week 7 
+7.0 movies
+7.1 houses
+week 8
+
+
