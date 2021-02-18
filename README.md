@@ -9,12 +9,12 @@
 ### week 2
 - 2.0 readability
 - 2.1 caesar
-week 3 
-3.0 plurality
-3.1 runoff
-week 4
-4.0 filter
-4.1 recover
+### week 3 
+- 3.0 plurality
+- 3.1 runoff
+### week 4
+- 4.0 filter
+- 4.1 recover
 week 5 
 5.0 speller
 week 6 
