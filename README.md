@@ -16,16 +16,16 @@
 - 4.0 filter
 - 4.1 recover
 ### week 5 
-5.0 speller
+- 5.0 speller
 ### week 6 
-6.0 hello
-6.1 mario
-6.2 cash
-6.3 readability
-6.4 DNA
+- 6.0 hello
+- 6.1 mario
+- 6.2 cash
+- 6.3 readability
+- 6.4 DNA
 ### week 7 
-7.0 movies
-7.1 houses
+- 7.0 movies
+- 7.1 houses
 ### week 8
 
 
