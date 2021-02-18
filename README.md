@@ -27,5 +27,5 @@
 - 7.0 movies
 - 7.1 houses
 ### week 8
-
+- 8.0 Pong - (games track)
 
