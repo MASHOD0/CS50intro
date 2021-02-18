@@ -15,17 +15,17 @@
 ### week 4
 - 4.0 filter
 - 4.1 recover
-week 5 
+### week 5 
 5.0 speller
-week 6 
+### week 6 
 6.0 hello
 6.1 mario
 6.2 cash
 6.3 readability
 6.4 DNA
-week 7 
+### week 7 
 7.0 movies
 7.1 houses
-week 8
+### week 8
 
 
